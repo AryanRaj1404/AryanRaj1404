@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am a Full stack developer.
+## My name is Aryan Raj and i am a Full Stack Developer.
 
 
 # 🌐 Socials:
